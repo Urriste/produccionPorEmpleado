@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionporempleadotp5\\matrizempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|solutionrelative:produccionporempleadotp5\\matrizempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionporempleadotp5\\frmgestionproduccionempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|solutionrelative:produccionporempleadotp5\\frmgestionproduccionempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|c:\\users\\lukeu\\onedrive\\escritorio\\facu\\laboratorio de programaci\u00F3n 1\\produccionporempleadotp5\\produccionporempleadotp5\\frmconsultarcantidadproducidaporempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|solutionrelative:produccionporempleadotp5\\frmconsultarcantidadproducidaporempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionporempleadotp5\\frmconsultarcantidadproducidaporempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|solutionrelative:produccionporempleadotp5\\frmconsultarcantidadproducidaporempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionporempleadotp5\\frmtotalproducidodeunempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|solutionrelative:produccionporempleadotp5\\frmtotalproducidodeunempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionporempleadotp5\\frmgestionproduccionempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|solutionrelative:produccionporempleadotp5\\frmgestionproduccionempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionporempleadotp5\\frmconsultarcantidadproducidaporempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|solutionrelative:produccionporempleadotp5\\frmconsultarcantidadproducidaporempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionporempleadotp5\\frmtotalproducidodeunempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E51FD96-1533-4096-AB77-7FED650A1E62}|produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5.csproj|solutionrelative:produccionporempleadotp5\\frmtotalproducidodeunempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGestionProduccionEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmGestionProduccionEmpleado.cs",
+              "RelativeDocumentMoniker": "produccionPorEmpleadoTP5\\frmGestionProduccionEmpleado.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmGestionProduccionEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "produccionPorEmpleadoTP5\\frmGestionProduccionEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:56:39.515Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTotalProducidoDeUnEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmTotalProducidoDeUnEmpleado.cs",
+              "RelativeDocumentMoniker": "produccionPorEmpleadoTP5\\frmTotalProducidoDeUnEmpleado.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmTotalProducidoDeUnEmpleado.cs",
+              "RelativeToolTip": "produccionPorEmpleadoTP5\\frmTotalProducidoDeUnEmpleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:55:22.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmConsultarCantidadProducidaPorEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.cs",
+              "RelativeDocumentMoniker": "produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:42:35.393Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmConsultarCantidadProducidaPorEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.cs",
+              "RelativeDocumentMoniker": "produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.cs",
+              "RelativeToolTip": "produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:49:47.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGestionProduccionEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmGestionProduccionEmpleado.cs",
+              "RelativeDocumentMoniker": "produccionPorEmpleadoTP5\\frmGestionProduccionEmpleado.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmGestionProduccionEmpleado.cs",
+              "RelativeToolTip": "produccionPorEmpleadoTP5\\frmGestionProduccionEmpleado.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:56:41.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrizEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\MatrizEmpleados.cs",
+              "RelativeDocumentMoniker": "produccionPorEmpleadoTP5\\MatrizEmpleados.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\MatrizEmpleados.cs",
+              "RelativeToolTip": "produccionPorEmpleadoTP5\\MatrizEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:57:45.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTotalProducidoDeUnEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmTotalProducidoDeUnEmpleado.cs",
+              "RelativeDocumentMoniker": "produccionPorEmpleadoTP5\\frmTotalProducidoDeUnEmpleado.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmTotalProducidoDeUnEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "produccionPorEmpleadoTP5\\frmTotalProducidoDeUnEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:53:23.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmConsultarCantidadProducidaPorEmpleado.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.Designer.cs",
+              "RelativeDocumentMoniker": "produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.Designer.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\Facu\\Laboratorio de programaci\u00F3n 1\\produccionPorEmpleadoTP5\\produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.Designer.cs",
+              "RelativeToolTip": "produccionPorEmpleadoTP5\\frmConsultarCantidadProducidaPorEmpleado.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:52:10.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
